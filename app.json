@@ -1,6 +1,7 @@
 {
-  "name": "Line_Bot_Shalat",
-  "description": "Jadwal Shalat Untuk Bot Line",
-  "repository": "https://github.com/zFz0000/Line_Bot_Shalat",
-  "keywords": ["line bot", "messaging api"]
+  "name": "API.AI webhook demonstration",
+  "description": "API.AI webhook demonstration",
+  "repository": "https://github.com/api-ai/apiai-weather-webhook-sample",
+  "logo": "http://xvir.github.io/img/apiai.png",
+  "keywords": ["api.ai", "natural language"]
 }
